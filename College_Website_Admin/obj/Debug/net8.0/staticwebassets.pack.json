@@ -1,0 +1,3005 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\College_Website_Admin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\College_Website_Admin.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\Chrome\\index-2.html",
+      "PackagePath": "staticwebassets\\Admin\\Chrome\\index-2.html"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\Chrome\\index.html",
+      "PackagePath": "staticwebassets\\Admin\\Chrome\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont78ce.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont78ce.eot"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont78ce.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont78ce.svg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont78ce.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont78ce.woff"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\images\\Khairahlogo.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\Khairahlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\images\\apple-touch-icon-114-precomposed.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apple-touch-icon-114-precomposed.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\images\\apple-touch-icon-144-precomposed.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apple-touch-icon-144-precomposed.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\images\\apple-touch-icon-57-precomposed.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apple-touch-icon-57-precomposed.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\images\\apple-touch-icon-72-precomposed.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apple-touch-icon-72-precomposed.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\images\\login-bg.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\login-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\images\\login-logo.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\login-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\images\\logo-folded.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo-folded.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\blo-dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\blo-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\chart-chartjs.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\chart-chartjs.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\chart-easypie.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\chart-easypie.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\chart-flot.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\chart-flot.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\chart-knobs.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\chart-knobs.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\chart-morris.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\chart-morris.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\chart-rickshaw.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\chart-rickshaw.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\chart-sparkline.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\chart-sparkline.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\crm-dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\crm-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\eco-dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\eco-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\form-validation.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\form-validation.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\frl-dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\frl-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\hos-dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\hos-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\jquery-1.11.2.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery-1.11.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\messenger.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\messenger.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\mus-dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\mus-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\soc-dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\soc-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\js\\uni-dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\uni-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\autonumeric\\autoNumeric-min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\autonumeric\\autoNumeric-min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\autosize\\autosize.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\autosize\\autosize.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\bootstrap-wizard\\jquery.bootstrap.wizard.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-wizard\\jquery.bootstrap.wizard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\bootstrap3-wysihtml5\\css\\bootstrap3-wysihtml5.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap3-wysihtml5\\css\\bootstrap3-wysihtml5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\bootstrap3-wysihtml5\\js\\bootstrap3-wysihtml5.all.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap3-wysihtml5\\js\\bootstrap3-wysihtml5.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\bootstrap\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\bootstrap\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\calendar\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\calendar\\fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\calendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\calendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\calendar\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\calendar\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\chartjs-chart\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\chartjs-chart\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\colorpicker\\css\\bootstrap-colorpicker.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\colorpicker\\css\\bootstrap-colorpicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\colorpicker\\img\\bootstrap-colorpicker\\alpha-horizontal.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\colorpicker\\img\\bootstrap-colorpicker\\alpha-horizontal.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\colorpicker\\img\\bootstrap-colorpicker\\alpha.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\colorpicker\\img\\bootstrap-colorpicker\\alpha.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\colorpicker\\img\\bootstrap-colorpicker\\hue-horizontal.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\colorpicker\\img\\bootstrap-colorpicker\\hue-horizontal.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\colorpicker\\img\\bootstrap-colorpicker\\hue.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\colorpicker\\img\\bootstrap-colorpicker\\hue.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\colorpicker\\img\\bootstrap-colorpicker\\saturation.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\colorpicker\\img\\bootstrap-colorpicker\\saturation.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\colorpicker\\js\\bootstrap-colorpicker.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\colorpicker\\js\\bootstrap-colorpicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\count-to\\countto.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\count-to\\countto.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\bootstrap\\3\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\bootstrap\\3\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\bootstrap\\3\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\bootstrap\\3\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\bootstrap\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\bootstrap\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\bootstrap\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\bootstrap\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\bootstrap\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\bootstrap\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\bootstrap\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\bootstrap\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\bootstrap\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\bootstrap\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\css\\dataTables.responsive.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\css\\dataTables.responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\extensions\\Responsive\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\extensions\\TableTools\\css\\dataTables.tableTools.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\extensions\\TableTools\\css\\dataTables.tableTools.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\extensions\\TableTools\\images\\background.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\extensions\\TableTools\\images\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\extensions\\TableTools\\images\\collection.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\extensions\\TableTools\\images\\collection.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\extensions\\TableTools\\images\\collection_hover.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\extensions\\TableTools\\images\\collection_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\extensions\\TableTools\\js\\dataTables.tableTools.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\extensions\\TableTools\\js\\dataTables.tableTools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datatables\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datepicker\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datepicker\\css\\datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datepicker\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datepicker\\js\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\daterangepicker\\css\\daterangepicker-bs3.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\daterangepicker\\css\\daterangepicker-bs3.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\daterangepicker\\js\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\daterangepicker\\js\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\daterangepicker\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\daterangepicker\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datetimepicker\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datetimepicker\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datetimepicker\\js\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datetimepicker\\js\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\datetimepicker\\js\\locales\\bootstrap-datetimepicker.fr.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datetimepicker\\js\\locales\\bootstrap-datetimepicker.fr.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\dropzone\\css\\dropzone.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\dropzone\\css\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\dropzone\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\dropzone\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\dropzone\\images\\custom-dropzone.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\dropzone\\images\\custom-dropzone.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\easypiechart\\jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\easypiechart\\jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.fillbetween.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.fillbetween.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.navigate.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.navigate.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.selection.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.selection.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\flot-chart\\jquery.flot.time.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\gauge\\gauge.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\gauge\\gauge.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\icheck.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\icheck.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\all.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\_all.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\aero.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\aero@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\blue.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\blue@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\flat.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\flat.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\flat@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\flat@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\green.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\green@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\grey.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\grey@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\orange.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\orange@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\pink.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\pink@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\purple.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\purple@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\red.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\red@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\yellow.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\flat\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\flat\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\line\\_all.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\line\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\line\\line.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\line\\line.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\line\\line@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\line\\line@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\_all.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\aero.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\aero@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\blue.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\blue@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\green.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\green@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\grey.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\grey@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\minimal.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\minimal.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\minimal.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\minimal.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\minimal@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\minimal@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\orange.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\orange@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\pink.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\pink@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\purple.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\purple@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\red.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\red@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\white.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\white.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\white.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\white.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\white@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\white@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\yellow.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\minimal\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\_all.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\aero.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\aero@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\blue.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\blue@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\green.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\green@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\grey.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\grey@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\orange.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\orange.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\orange@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\pink.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\pink@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\purple.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\purple@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\red.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\red@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\square.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\square.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\square@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\square@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\white.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\white.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\white@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\white@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\yellow.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\icheck\\skins\\square\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\icheck\\skins\\square\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\image-cropper\\css\\cropper.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\image-cropper\\css\\cropper.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\image-cropper\\css\\main.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\image-cropper\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\image-cropper\\js\\cropper.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\image-cropper\\js\\cropper.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\image-cropper\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\image-cropper\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\inputmask\\min\\jquery.inputmask.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\inputmask\\min\\jquery.inputmask.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\ios-switch\\css\\switch.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\ios-switch\\css\\switch.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\isotope\\jquery.isotope.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\isotope\\jquery.isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\isotope\\jquery.isotope.sloppy-masonry.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\isotope\\jquery.isotope.sloppy-masonry.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-bg_glass_55_fbf9ee_1x400.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-bg_glass_55_fbf9ee_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-bg_glass_75_dadada_1x400.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-bg_glass_75_dadada_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-bg_glass_75_e6e6e6_1x400.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-bg_glass_75_e6e6e6_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-icons_888888_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-icons_888888_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-ui\\smoothness\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-validation\\js\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-validation\\js\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jquery-validation\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-validation\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jstree\\jstree.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jstree\\jstree.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jstree\\themes\\default\\32px.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jstree\\themes\\default\\32px.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jstree\\themes\\default\\40px.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jstree\\themes\\default\\40px.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jstree\\themes\\default\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jstree\\themes\\default\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jstree\\themes\\default\\throbber.gif",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jstree\\themes\\default\\throbber.gif"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-2.0.1.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-2.0.1.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-2.0.1.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-2.0.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-ar-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-ar-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-at-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-at-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-au-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-au-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-be-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-be-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-ca-lcc-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-ca-lcc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-ch-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-ch-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-cn-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-cn-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-co-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-co-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-de-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-de-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-dk-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-dk-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-es-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-es-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-europe-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-europe-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-fr-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-fr-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-fr_regions-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-fr_regions-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-in-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-in-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-it-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-it-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-nl-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-nl-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-no-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-no-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-nz-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-nz-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-pl-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-pl-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-pt-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-pt-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-se-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-se-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-th-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-th-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-us-il-chicago-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-us-il-chicago-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-us-ny-newyork-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-us-ny-newyork-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-ve-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-ve-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-za-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap\\jquery-jvectormap-za-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\messenger\\css\\messenger-theme-flat.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\messenger\\css\\messenger-theme-flat.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\messenger\\css\\messenger-theme-future.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\messenger\\css\\messenger-theme-future.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\messenger\\css\\messenger.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\messenger\\css\\messenger.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\messenger\\js\\messenger-theme-flat.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\messenger\\js\\messenger-theme-flat.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\messenger\\js\\messenger-theme-future.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\messenger\\js\\messenger-theme-future.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\messenger\\js\\messenger.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\messenger\\js\\messenger.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\morris-chart\\css\\morris.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\morris-chart\\css\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\morris-chart\\js\\morris.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\morris-chart\\js\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\morris-chart\\js\\raphael-min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\morris-chart\\js\\raphael-min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\multi-select\\css\\multi-select.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\multi-select\\css\\multi-select.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\multi-select\\img\\switch.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\multi-select\\img\\switch.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\multi-select\\js\\jquery.multi-select.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\multi-select\\js\\jquery.multi-select.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\multi-select\\js\\jquery.quicksearch.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\multi-select\\js\\jquery.quicksearch.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\pace\\pace-theme-flash.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\pace\\pace-theme-flash.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\pace\\pace.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\pace\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\prettyphoto\\dark_rounded\\contentPattern.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\prettyphoto\\dark_rounded\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\prettyphoto\\default\\default_thumb.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\prettyphoto\\default\\default_thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\prettyphoto\\default\\loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\prettyphoto\\default\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\prettyphoto\\default\\sprite.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\prettyphoto\\default\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\prettyphoto\\default\\sprite_next.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\prettyphoto\\default\\sprite_next.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\prettyphoto\\default\\sprite_prev.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\prettyphoto\\default\\sprite_prev.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\prettyphoto\\default\\sprite_x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\prettyphoto\\default\\sprite_x.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\prettyphoto\\default\\sprite_y.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\prettyphoto\\default\\sprite_y.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\prettyphoto\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\prettyphoto\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\prettyphoto\\light_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\prettyphoto\\light_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\prettyphoto\\light_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\prettyphoto\\light_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\prettyphoto\\light_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\prettyphoto\\light_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\prettyphoto\\light_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\prettyphoto\\light_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\prettyphoto\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\prettyphoto\\prettyPhoto.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\responsive-tables\\css\\rwd-table.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\responsive-tables\\css\\rwd-table.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\responsive-tables\\js\\rwd-table.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\responsive-tables\\js\\rwd-table.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\css\\detail.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\css\\detail.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\css\\extensions.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\css\\extensions.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\css\\graph.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\css\\graph.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\css\\legend.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\css\\legend.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\css\\lines.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\css\\lines.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\css\\rickshaw.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\css\\rickshaw.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\images\\interp_cardinal.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\images\\interp_cardinal.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\images\\interp_linear.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\images\\interp_linear.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\images\\interp_step.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\images\\interp_step.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\images\\offset_pct.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\images\\offset_pct.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\images\\offset_stack.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\images\\offset_stack.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\images\\offset_stream.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\images\\offset_stream.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\images\\offset_value.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\images\\offset_value.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\images\\om_bar.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\images\\om_bar.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\images\\om_lines.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\images\\om_lines.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\images\\om_scatter.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\images\\om_scatter.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\images\\om_stack.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\images\\om_stack.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\js\\Rickshaw.All.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\js\\Rickshaw.All.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\rickshaw-chart\\vendor\\d3.v3.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rickshaw-chart\\vendor\\d3.v3.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\select2\\select2-spinner.gif",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\select2\\select2-spinner.gif"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\select2\\select2.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\select2\\select2.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\select2\\select2x2.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\select2\\select2x2.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\sparkline-chart\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\sparkline-chart\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\tagsinput\\css\\bootstrap-tagsinput.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\tagsinput\\css\\bootstrap-tagsinput.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\tagsinput\\js\\bootstrap-tagsinput.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\tagsinput\\js\\bootstrap-tagsinput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\timepicker\\css\\bootstrap-timepicker.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\timepicker\\css\\bootstrap-timepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\timepicker\\js\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\timepicker\\js\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\tocify\\css\\jquery.tocify.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\tocify\\css\\jquery.tocify.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\tocify\\js\\jquery.tocify.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\tocify\\js\\jquery.tocify.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\typeahead\\css\\typeahead.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\typeahead\\css\\typeahead.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\typeahead\\handlebars.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\typeahead\\handlebars.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\typeahead\\typeahead.bundle.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\typeahead\\typeahead.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\css\\components\\htmleditor.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\css\\components\\htmleditor.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\css\\components\\nestable.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\css\\components\\nestable.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\css\\uikit.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\css\\uikit.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\js\\components\\htmleditor.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\js\\components\\htmleditor.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\js\\components\\nestable.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\js\\components\\nestable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\js\\uikit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\vendor\\codemirror\\addon\\mode\\overlay.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\vendor\\codemirror\\addon\\mode\\overlay.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\vendor\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\vendor\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\vendor\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\vendor\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\vendor\\codemirror\\mode\\gfm\\gfm.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\vendor\\codemirror\\mode\\gfm\\gfm.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\vendor\\codemirror\\mode\\markdown\\markdown.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\vendor\\codemirror\\mode\\markdown\\markdown.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\vendor\\codemirror\\mode\\xml\\xml.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\vendor\\codemirror\\mode\\xml\\xml.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\uikit\\vendor\\marked\\marked.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\uikit\\vendor\\marked\\marked.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\assets\\plugins\\viewport\\viewportchecker.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\viewport\\viewportchecker.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\albums\\album-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\albums\\album-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\albums\\album-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\albums\\album-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\albums\\album-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\albums\\album-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\albums\\album-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\albums\\album-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\albums\\album-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\albums\\album-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\albums\\album-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\albums\\album-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\albums\\album-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\albums\\album-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\albums\\album-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\albums\\album-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\albums\\album-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\albums\\album-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\backgrounds\\b1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\backgrounds\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\backgrounds\\b2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\backgrounds\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\backgrounds\\b3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\backgrounds\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\backgrounds\\b4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\backgrounds\\b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-media\\media-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-media\\media-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-media\\media-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-media\\media-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-media\\media-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-media\\media-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-media\\media-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-media\\media-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-media\\media-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-media\\media-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-media\\media-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-media\\media-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-media\\media-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-media\\media-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-media\\media-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-media\\media-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-media\\media-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-media\\media-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-users\\user-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-users\\user-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-users\\user-10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-users\\user-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-users\\user-11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-users\\user-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-users\\user-12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-users\\user-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-users\\user-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-users\\user-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-users\\user-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-users\\user-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-users\\user-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-users\\user-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-users\\user-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-users\\user-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-users\\user-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-users\\user-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-users\\user-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-users\\user-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-users\\user-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-users\\user-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blo-users\\user-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blo-users\\user-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blog.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\blog.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blogs\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blogs\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blogs\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blogs\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blogs\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blogs\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\blogs\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\blogs\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\calendars\\crm-calendar.js",
+      "PackagePath": "staticwebassets\\Admin\\data\\calendars\\crm-calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\calendars\\hos-doc-schedule.js",
+      "PackagePath": "staticwebassets\\Admin\\data\\calendars\\hos-doc-schedule.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\calendars\\hos-events.js",
+      "PackagePath": "staticwebassets\\Admin\\data\\calendars\\hos-events.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\calendars\\mus-events.js",
+      "PackagePath": "staticwebassets\\Admin\\data\\calendars\\mus-events.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\calendars\\uni-events.js",
+      "PackagePath": "staticwebassets\\Admin\\data\\calendars\\uni-events.js"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\carousel\\v1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\carousel\\v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\carousel\\v2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\carousel\\v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\carousel\\v3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\carousel\\v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\courses\\course-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\courses\\course-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\courses\\course-10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\courses\\course-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\courses\\course-11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\courses\\course-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\courses\\course-12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\courses\\course-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\courses\\course-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\courses\\course-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\courses\\course-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\courses\\course-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\courses\\course-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\courses\\course-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\courses\\course-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\courses\\course-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\courses\\course-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\courses\\course-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\courses\\course-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\courses\\course-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\courses\\course-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\courses\\course-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\courses\\course-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\courses\\course-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\crm-contacts\\contact-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\crm-contacts\\contact-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\crm-customers\\customer-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\crm-customers\\customer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\crm-leads\\lead-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\crm-leads\\lead-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\crm-users\\user-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\crm-users\\user-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\crm-vendors\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\crm-vendors\\vendor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\doctors\\doctor-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\doctors\\doctor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\doctors\\doctor-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\doctors\\doctor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\doctors\\doctor-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\doctors\\doctor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\doctors\\doctor-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\doctors\\doctor-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\doctors\\doctor-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\doctors\\doctor-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\doctors\\doctor-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\doctors\\doctor-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\doctors\\doctor-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\doctors\\doctor-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\doctors\\doctor-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\doctors\\doctor-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\doctors\\doctor-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\doctors\\doctor-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-customers\\customer-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-customers\\customer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-products\\product-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-products\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-users\\user-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-users\\user-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\eco-vendors\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\eco-vendors\\vendor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\frl-buyers\\buyer-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\frl-buyers\\buyer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\frl-sellers\\seller-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\frl-sellers\\seller-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\frl-users\\user-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\frl-users\\user-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\gallery\\01.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\gallery\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\gallery\\02.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\gallery\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\gallery\\03.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\gallery\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\gallery\\04.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\gallery\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\gallery\\05.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\gallery\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\gallery\\06.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\gallery\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\gallery\\07.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\gallery\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\gallery\\08.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\gallery\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\hos-staffs\\staff-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\hos-staffs\\staff-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\hos-staffs\\staff-10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\hos-staffs\\staff-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\hos-staffs\\staff-11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\hos-staffs\\staff-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\hos-staffs\\staff-12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\hos-staffs\\staff-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\hos-staffs\\staff-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\hos-staffs\\staff-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\hos-staffs\\staff-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\hos-staffs\\staff-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\hos-staffs\\staff-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\hos-staffs\\staff-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\hos-staffs\\staff-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\hos-staffs\\staff-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\hos-staffs\\staff-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\hos-staffs\\staff-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\hos-staffs\\staff-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\hos-staffs\\staff-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\hos-staffs\\staff-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\hos-staffs\\staff-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\hos-staffs\\staff-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\hos-staffs\\staff-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\image-cropper-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\image-cropper-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\invoice\\invoice-logo.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\invoice\\invoice-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mail\\attach-1.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\mail\\attach-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mail\\attach-2.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\mail\\attach-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mail\\attach-3.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\mail\\attach-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\members\\person-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\members\\person-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\members\\person-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\members\\person-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\members\\person-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\members\\person-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\members\\person-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\members\\person-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\members\\person-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\members\\person-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\members\\person-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\members\\person-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\members\\person-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\members\\person-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\mus-artists\\artist-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\mus-artists\\artist-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\patients\\patient-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\patients\\patient-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\patients\\patient-10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\patients\\patient-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\patients\\patient-11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\patients\\patient-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\patients\\patient-12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\patients\\patient-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\patients\\patient-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\patients\\patient-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\patients\\patient-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\patients\\patient-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\patients\\patient-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\patients\\patient-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\patients\\patient-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\patients\\patient-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\patients\\patient-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\patients\\patient-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\patients\\patient-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\patients\\patient-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\patients\\patient-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\patients\\patient-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\patients\\patient-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\patients\\patient-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\playlists\\playlist-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\playlists\\playlist-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\playlists\\playlist-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\playlists\\playlist-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\playlists\\playlist-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\playlists\\playlist-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\playlists\\playlist-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\playlists\\playlist-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\playlists\\playlist-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\playlists\\playlist-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\playlists\\playlist-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\playlists\\playlist-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\playlists\\playlist-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\playlists\\playlist-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\playlists\\playlist-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\playlists\\playlist-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\playlists\\playlist-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\playlists\\playlist-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\professors\\professor-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\professors\\professor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\professors\\professor-10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\professors\\professor-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\professors\\professor-11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\professors\\professor-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\professors\\professor-12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\professors\\professor-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\professors\\professor-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\professors\\professor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\professors\\professor-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\professors\\professor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\professors\\professor-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\professors\\professor-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\professors\\professor-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\professors\\professor-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\professors\\professor-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\professors\\professor-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\professors\\professor-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\professors\\professor-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\professors\\professor-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\professors\\professor-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\professors\\professor-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\professors\\professor-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\as.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\as.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\as061dd8ef-2ad1-408d-926e-186525ab9a23.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\as061dd8ef-2ad1-408d-926e-186525ab9a23.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\asc8e9ef78-f8aa-4bc6-be97-b4ff79227fbd.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\asc8e9ef78-f8aa-4bc6-be97-b4ff79227fbd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\avatar-1.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\avatar-2.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\avatar-23bbcfca0-d65d-4c82-9a09-ca7aed83172c.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\avatar-23bbcfca0-d65d-4c82-9a09-ca7aed83172c.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\avatar-2ce60dca9-c9df-4779-aa89-89acc99390b3.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\avatar-2ce60dca9-c9df-4779-aa89-89acc99390b3.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\avatar-2ecd795ac-e167-47ec-9655-18496bcb8640.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\avatar-2ecd795ac-e167-47ec-9655-18496bcb8640.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\avatar-3.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\avatar-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\avatar-4.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\avatar-4.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\avatar-467ebde30-c09a-4c46-9d16-5e21cbc501be.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\avatar-467ebde30-c09a-4c46-9d16-5e21cbc501be.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\avatar-5.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\avatar-5.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\aw.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\aw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\awa54ba8c7-fe77-4af7-8f3d-ccd403811e41.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\awa54ba8c7-fe77-4af7-8f3d-ccd403811e41.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\awa7a58ada-b0f3-493c-ac95-15886d64fb6d.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\awa7a58ada-b0f3-493c-ac95-15886d64fb6d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\awdf34a4b0-fd11-48fb-8a88-07b087e490c3.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\awdf34a4b0-fd11-48fb-8a88-07b087e490c3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\captain.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\captain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\captain96787f4e-f03a-4bcd-b425-8c4cf1099e31.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\captain96787f4e-f03a-4bcd-b425-8c4cf1099e31.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\g.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\gda88e92e-933b-4765-acef-1db63b3822ea.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\gda88e92e-933b-4765-acef-1db63b3822ea.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\ge71cd2f7-fab2-4c3a-8076-91788771ca19.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\ge71cd2f7-fab2-4c3a-8076-91788771ca19.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\img-12246c688-82ed-4a9b-a0ba-3691de7191ce.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\img-12246c688-82ed-4a9b-a0ba-3691de7191ce.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\img-172a32bc1-54b0-442b-8750-4b6089174d72.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\img-172a32bc1-54b0-442b-8750-4b6089174d72.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\img-487c12a33-6dd6-4630-8ca9-69d7d9c5744f.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\img-487c12a33-6dd6-4630-8ca9-69d7d9c5744f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\profile-blog.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\profile-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\profile-crm.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\profile-crm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\profile-ecommerce.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\profile-ecommerce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\profile-freelancing.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\profile-freelancing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\profile-hospital.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\profile-hospital.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\profile-music.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\profile-music.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\profile-musicfa498adf-2a8a-40a4-bda3-85fc4954c901.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\profile-musicfa498adf-2a8a-40a4-bda3-85fc4954c901.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\profile-socialmedia.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\profile-socialmedia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\profile-university.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\profile-university.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\profile-universityf7594be5-851d-4b70-bad1-909ac3767324.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\profile-universityf7594be5-851d-4b70-bad1-909ac3767324.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\profile.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\profile3a02e538-1898-4b32-9810-78254300e5dd.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\profile3a02e538-1898-4b32-9810-78254300e5dd.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\profilef86e7de6-da9f-4507-ae1b-b0f050a4c359.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\profilef86e7de6-da9f-4507-ae1b-b0f050a4c359.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\sq.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\sq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\sq57e6946e-ef7c-40a1-bbad-228a67d423c8.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\sq57e6946e-ef7c-40a1-bbad-228a67d423c8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\us-icon.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\us-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\user.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\user5042f6ae-0f64-44be-b7b9-71c2860a1b83.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\user5042f6ae-0f64-44be-b7b9-71c2860a1b83.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\profile\\userb656b91e-a463-419e-9539-bfb6122edff2.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\profile\\userb656b91e-a463-419e-9539-bfb6122edff2.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\public_resume\\updated-resume .pdf",
+      "PackagePath": "staticwebassets\\Admin\\data\\public_resume\\updated-resume .pdf"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\search\\1.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\search\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\search\\2.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\search\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\search\\3.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\search\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\search\\4.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\search\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-groups\\group-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-groups\\group-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-groups\\group-10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-groups\\group-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-groups\\group-11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-groups\\group-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-groups\\group-12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-groups\\group-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-groups\\group-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-groups\\group-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-groups\\group-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-groups\\group-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-groups\\group-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-groups\\group-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-groups\\group-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-groups\\group-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-groups\\group-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-groups\\group-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-groups\\group-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-groups\\group-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-groups\\group-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-groups\\group-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-groups\\group-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-groups\\group-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-media\\media-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-media\\media-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-media\\media-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-media\\media-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-media\\media-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-media\\media-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-media\\media-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-media\\media-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-media\\media-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-media\\media-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-media\\media-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-media\\media-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-media\\media-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-media\\media-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-media\\media-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-media\\media-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-media\\media-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-media\\media-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-members\\member-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-members\\member-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-members\\member-10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-members\\member-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-members\\member-11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-members\\member-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-members\\member-12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-members\\member-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-members\\member-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-members\\member-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-members\\member-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-members\\member-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-members\\member-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-members\\member-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-members\\member-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-members\\member-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-members\\member-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-members\\member-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-members\\member-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-members\\member-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-members\\member-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-members\\member-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\soc-members\\member-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\soc-members\\member-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\songs\\song-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\songs\\song-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\students\\student-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\students\\student-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\students\\student-10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\students\\student-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\students\\student-11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\students\\student-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\students\\student-12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\students\\student-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\students\\student-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\students\\student-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\students\\student-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\students\\student-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\students\\student-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\students\\student-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\students\\student-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\students\\student-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\students\\student-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\students\\student-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\students\\student-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\students\\student-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\students\\student-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\students\\student-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\students\\student-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\students\\student-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\thumb.png",
+      "PackagePath": "staticwebassets\\Admin\\data\\thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\uni-staffs\\staff-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\uni-staffs\\staff-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\uni-staffs\\staff-10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\uni-staffs\\staff-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\uni-staffs\\staff-11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\uni-staffs\\staff-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\uni-staffs\\staff-12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\uni-staffs\\staff-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\uni-staffs\\staff-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\uni-staffs\\staff-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\uni-staffs\\staff-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\uni-staffs\\staff-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\uni-staffs\\staff-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\uni-staffs\\staff-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\uni-staffs\\staff-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\uni-staffs\\staff-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\uni-staffs\\staff-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\uni-staffs\\staff-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\uni-staffs\\staff-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\uni-staffs\\staff-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\uni-staffs\\staff-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\uni-staffs\\staff-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Admin\\data\\uni-staffs\\staff-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\data\\uni-staffs\\staff-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\dashboard_Icons\\agreement.png",
+      "PackagePath": "staticwebassets\\Contentimages\\dashboard_Icons\\agreement.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\dashboard_Icons\\donation.png",
+      "PackagePath": "staticwebassets\\Contentimages\\dashboard_Icons\\donation.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\dashboard_Icons\\donation1.png",
+      "PackagePath": "staticwebassets\\Contentimages\\dashboard_Icons\\donation1.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\dashboard_Icons\\event.png",
+      "PackagePath": "staticwebassets\\Contentimages\\dashboard_Icons\\event.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\dashboard_Icons\\person.png",
+      "PackagePath": "staticwebassets\\Contentimages\\dashboard_Icons\\person.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-1.png",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-11.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-12.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-13.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-14.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-15.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-16.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-17.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-18.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-19.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-20.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-3.png",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\avatar-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculties\\us-icon.png",
+      "PackagePath": "staticwebassets\\Contentimages\\faculties\\us-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-1.png",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-11.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-12.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-13.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-14.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-15.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-15e6f52664-3a85-46a6-9b84-34d8cc5017e5.jpeg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-15e6f52664-3a85-46a6-9b84-34d8cc5017e5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-16.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-17.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-18.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-18826a457a-7b13-40f7-a2aa-03c354cb2564.jpeg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-18826a457a-7b13-40f7-a2aa-03c354cb2564.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-19.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-1ea2df2bb-9edc-400f-ba32-5f4b12ac858e.png",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-1ea2df2bb-9edc-400f-ba32-5f4b12ac858e.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-20.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-3.png",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-35aa5afc6-0540-40e1-96b5-8b263f54f658.png",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-35aa5afc6-0540-40e1-96b5-8b263f54f658.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-3aba2cbcb-1b60-46a6-a78f-338ce1521d27.png",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-3aba2cbcb-1b60-46a6-a78f-338ce1521d27.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-63528e449-ba84-4755-b327-30ea67103d24.jpeg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-63528e449-ba84-4755-b327-30ea67103d24.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\avatar-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\aw18e81e8b-acf4-49f4-844d-1db95a8da23e.jpeg",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\aw18e81e8b-acf4-49f4-844d-1db95a8da23e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\us-icon.png",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\us-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\faculty\\us-icon3d49dfda-1fb3-48bb-963d-8b82761b81b6.png",
+      "PackagePath": "staticwebassets\\Contentimages\\faculty\\us-icon3d49dfda-1fb3-48bb-963d-8b82761b81b6.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\as.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\as.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\avatar-1.png",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\avatar-2.png",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\avatar-3.png",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\avatar-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\avatar-4.png",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\avatar-4.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\avatar-4ff14aa7b-368d-4fc3-be37-4626a5015bfd.png",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\avatar-4ff14aa7b-368d-4fc3-be37-4626a5015bfd.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\avatar-5.png",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\avatar-5.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\aw.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\aw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\captain.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\captain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\captain172e4e13-0ed4-4fe3-95b5-347ade4b5469.jpeg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\captain172e4e13-0ed4-4fe3-95b5-347ade4b5469.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\captain9a9b2e77-5965-4e0a-b01f-cc103e789db0.jpeg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\captain9a9b2e77-5965-4e0a-b01f-cc103e789db0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\captaind4caa1b1-a094-43c4-be2f-79d061f0fe16.jpeg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\captaind4caa1b1-a094-43c4-be2f-79d061f0fe16.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\g.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\profile-blog.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\profile-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\profile-crm.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\profile-crm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\profile-ecommerce.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\profile-ecommerce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\profile-freelancing.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\profile-freelancing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\profile-freelancingeaecc6fe-9e14-4e84-9205-3703ab4e3cff.jpeg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\profile-freelancingeaecc6fe-9e14-4e84-9205-3703ab4e3cff.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\profile-hospital.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\profile-hospital.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\profile-music.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\profile-music.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\profile-socialmedia.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\profile-socialmedia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\profile-university.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\profile-university.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\profile.png",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\sq.jpg",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\sq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\us-icon.png",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\us-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\SAFEER\\OneDrive\\Desktop\\College_Website_Admin\\College_Website_Admin\\wwwroot\\Contentimages\\profile\\user.png",
+      "PackagePath": "staticwebassets\\Contentimages\\profile\\user.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.College_Website_Admin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.College_Website_Admin.props",
+      "PackagePath": "build\\College_Website_Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.College_Website_Admin.props",
+      "PackagePath": "buildMultiTargeting\\College_Website_Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.College_Website_Admin.props",
+      "PackagePath": "buildTransitive\\College_Website_Admin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

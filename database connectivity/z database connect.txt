@@ -1,0 +1,32 @@
+======================Database Connect Steps Guide
+
+
+**********************
+1- Steps to Connect Project to Database and Run:
+Navigate to the Data Folder
+Go to the project directory and open the Data folder.
+
+
+********************
+2- Open the Context File
+Inside the Data folder, locate the context file (likely named something like CollegeDbContext.cs) and open it.
+
+******************
+3- Set SQL Server Credentials
+In the context file, make the following changes:
+
+Set the server name to match your SQL Server instance.
+Set the database name according to the database you're using.
+Provide your login name and password for the SQL Server connection.
+
+*****************
+4- Update Database via NuGet Package Manager
+
+Go to the Tools menu in Visual Studio.
+Select NuGet Package Manager and then Package Manager Console.
+In the console, type the following command and press Enter:
+Update-Database
+
+*****************
+5- Run the Project
+After the database has been updated successfully, run the project.

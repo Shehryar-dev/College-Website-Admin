@@ -1,0 +1,314 @@
+﻿@{
+    Layout = "_Layout_admin";
+}
+
+
+
+@model College_Website_Admin.Models.Department;
+<div class="page-container row-fluid">
+
+    <!-- SIDEBAR - START -->
+    <div class="page-sidebar ">
+
+        <!-- MAIN MENU - START -->
+        <div class="page-sidebar-wrapper" id="main-menu-wrapper">
+
+            <!-- USER INFO - START -->
+            <partial name="_AdminPanelprofileImage">
+                <!-- USER INFO - END -->
+
+
+
+                <ul class='wraplist'>
+
+                    <li class="">
+                        <a asp-controller="Admin" asp-action="Index">
+                            <i class="fa fa-dashboard"></i>
+                            <span class="title" style="font-family: 'Almendra', serif;" style="font-family: 'Almendra', serif;">Dashboard</span>
+                        </a>
+                    </li>
+                    <!-- Cousre -->
+                    <li class="">
+                        <a href="javascript:;">
+                            <i class="fa-solid fa-book"></i>
+                            <span class="title" style="font-family: 'Almendra', serif;">COURSES</span>
+                            <span class="arrow "></span>
+                        </a>
+                        <ul class="sub-menu">
+                            <li>
+                                <a asp-controller="Admin" asp-action="course_add">Add Course</a>
+                            </li>
+                            <li>
+                                <a asp-controller="Admin" asp-action="course_show">Show Courses</a>
+                            </li>
+
+                        </ul>
+                    </li>
+                    <!-- Departments -->
+                    <li class="open">
+                        <a href="javascript:;">
+                            <i class="fa-solid fa-building-columns"></i>
+                            <span class="title" style="font-family: 'Almendra', serif;">DEPARTMENTS</span>
+                            <span class="arrow "></span>
+                        </a>
+                        <ul class="sub-menu">
+                            <li>
+                                <a asp-controller="Admin" asp-action="department_add">Add Department</a>
+                            </li>
+                            <li>
+                                <a asp-controller="Admin" asp-action="department_show">Show Departments</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <!-- Add Faculty -->
+                    <li class="">
+                        <a href="javascript:;">
+                            <i class="fa-solid fa-chalkboard-user"></i>
+                            <span class="title" style="font-family: 'Almendra', serif;">FACULTIES</span>
+                            <span class="arrow "></span>
+                        </a>
+                        <ul class="sub-menu">
+                            <li>
+                                <a asp-controller="Admin" asp-action="faculty_add">Add Faculty</a>
+                            </li>
+                            <li>
+                                <a asp-controller="Admin" asp-action="faculty_show">Show Faculty</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <!-- Facilities Records -->
+                    <li class="">
+                        <a href="javascript:;">
+                            <i class="fa-solid fa-list-check"></i>
+                            <span class="title" style="font-family: 'Almendra', serif;">FACILITIES</span>
+                            <span class="arrow "></span>
+                        </a>
+                        <ul class="sub-menu">
+                            <li>
+                                <a asp-controller="Admin" asp-action="facility_add">Add Facility</a>
+                            </li>
+                            <li>
+                                <a asp-controller="Admin" asp-action="facility_show">Show Facility</a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <!--Students -->
+                    <li class="">
+                        <a href="javascript:;">
+                            <i class="fa-solid fa-list-check"></i>
+                            <span class="title" style="font-family: 'Almendra', serif;">Student Details</span>
+                            <span class="arrow "></span>
+                        </a>
+                        <ul class="sub-menu">
+                            <li>
+                                <a asp-controller="Admin" asp-action="registered_student">Registered Students</a>
+                            </li>
+                            <li>
+                                <a asp-controller="Admin" asp-action="select_course">Student Course Details</a>
+                            </li>
+                            <li>
+                                <a asp-controller="Admin" asp-action="education_record">Student Education Records</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <!-- admission_record -->
+                    <li class="">
+                        <a href="javascript:;">
+                            <i class="fa-regular fa-id-card"></i>
+                            <span class="title" style="font-family: 'Almendra', serif;">ONLINE ADMISSION</span>
+                            <span class="arrow "></span>
+                        </a>
+                        <ul class="sub-menu">
+                            <li>
+                                <a asp-controller="Admin" asp-action="admission_records">Admission Records</a>
+                            </li>
+                            <li>
+                                <a asp-controller="Admin" asp-action="status_records">Status Records</a>
+                            </li>
+                        </ul>
+                    </li>
+
+
+                    <!-- Role -->
+                    <li class="">
+                        <a href="javascript:;">
+                            <i class="fa-solid fa-circle-user"></i>
+                            <span class="title" style="font-family: 'Almendra', serif;">Roles</span>
+                            <span class="arrow "></span>
+                        </a>
+                        <ul class="sub-menu">
+                            <li>
+                                <a asp-controller="Admin" asp-action="role_add">Add Role</a>
+                            </li>
+                            <li>
+                                <a asp-controller="Admin" asp-action="role_show">Show Roles</a>
+                            </li>
+
+                        </ul>
+                    </li>
+                    <!-- Admin, User -->
+                    <li class="">
+                        <a href="javascript:;">
+                            <i class="fa-solid fa-users"></i>
+                            <span class="title" style="font-family: 'Almendra', serif;">Users</span>
+                            <span class="arrow "></span>
+                        </a>
+                        <ul class="sub-menu">
+                            <li>
+                                <a asp-controller="Admin" asp-action="user_add">Add Users</a>
+                            </li>
+                            <li>
+                                <a asp-controller="Admin" asp-action="user_show">Show Users</a>
+                            </li>
+
+                        </ul>
+                    </li>
+                    <!-- Contacts Record -->
+                    <li class="">
+                        <a href="javascript:;">
+                            <i class="fa-solid fa-phone"></i>
+                            <span class="title" style="font-family: 'Almendra', serif;">PUBLIC CONTACTS</span>
+                            <span class="arrow "></span>
+                        </a>
+                        <ul class="sub-menu">
+                            <li>
+                                <a asp-controller="Admin" asp-action="contact_record">Contact Records</a>
+                            </li>
+
+                        </ul>
+                    </li>
+                    <!-- feedback -->
+                    <li class="">
+                        <a href="javascript:;">
+                            <i class="fa fa-bar-chart"></i>
+                            <span class="title" style="font-family: 'Almendra', serif;">Reports</span>
+                            <span class="arrow "></span>
+                        </a>
+                        <ul class="sub-menu">
+                            <li>
+                                <a asp-controller="Admin" asp-action="feedback_record">Feedback</a>
+                            </li>
+
+
+                        </ul>
+                    </li>
+                </ul>
+
+        </div>
+        <!-- MAIN MENU - END -->
+
+        <div class="project-info">
+
+            <div class="block1">
+                <div class="data">
+                    <span class='title'>Total Students</span>
+                    <span class='total'>70k</span>
+                </div>
+                <div class="graph">
+                    <span class="sidebar_orders">...</span>
+                </div>
+            </div>
+
+            <div class="block2">
+                <div class="data">
+                    <span class='title'>total Visitors</span>
+                    <span class='total'>34500</span>
+                </div>
+                <div class="graph">
+                    <span class="sidebar_visitors">...</span>
+                </div>
+            </div>
+
+        </div>
+
+     
+    </div>
+    <!--  SIDEBAR - END -->
+    <!-- START CONTENT -->
+    <section id="main-content">
+        <section class="wrapper main-wrapper">
+
+            <div class='col-lg-12 col-md-12 col-sm-12 col-xs-12'>
+                <div class="page-title">
+
+                    <div class="pull-left">
+                        <h1 class="title" style="font-family: Pacifico;color: 	#fffffe;"><span style="color: #26b75e;">Department</span> Insert</h1>
+                    </div>
+
+                    <div class="pull-right hidden-xs">
+                        <ol class="breadcrumb">
+                            <li>
+                                <a asp-action="Index" asp-controller="Admin" style="font-family: 'Almendra';color: 	#fffffe;"><i class="fa fa-home"></i>Home</a>
+                            </li>
+                            <li class="active">
+                                <a asp-action="department_add" asp-controller="Admin" style="font-family: 'Almendra';color: 	#fffffe;">Department</a>
+                            </li>
+                            <li class="active">
+                                <strong style=" font-family: 'Almendra', serif;color: 	#fffffe;">Add Depart</strong>
+                            </li>
+
+                        </ol>
+                    </div>
+
+                </div>
+            </div>
+            <div class="clearfix"></div>
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                <section class="box ">
+                    <header class="panel_header">
+                        <h2 class="title pull-left">Add Department</h2>
+                        <div class="actions panel_actions pull-right">
+                            <i class="box_toggle fa fa-chevron-down"></i>
+                            <i class="box_setting fa fa-cog" data-toggle="modal" href="#section-settings"></i>
+                            <i class="box_close fa fa-times"></i>
+                        </div>
+                    </header>
+                    <div class="content-body" >
+                        <div class="row">
+                            <form method="post" asp-action="add_depart" asp-controller="Admin">
+                                <div class="col-md-12 col-sm-9 col-xs-10">
+
+                                    <div class="form-group">
+                                        <label class="form-label" style="font-weight: bold;" for="field-1">
+                                            Department
+                                            Name
+                                        </label>
+                                        <!-- <span class="desc">e.g. "Beautiful Mind"</span> -->
+                                        <div class="controls">
+                                            <input type="text" class="form-control" asp-for="Departmentname" id="field-1" required>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label class="form-label" style="font-weight: bold;"
+                                               for="field-3">Department Head</label>
+                                        <!-- <span asp-validation-for="UserEmail" class="desc" style="color:#dc3545 !important;"></span> -->
+                                        <div class="controls">
+                                            <input type="text" asp-for="Departmenthead" class="form-control" id="field-3" required>
+                                        </div>
+
+                                    </div>
+                                    
+
+                                </div>
+                                <div class="col-lg-8 col-md-8 col-sm-9 col-xs-12 padding-bottom-30">
+                                    <div class="text-left">
+                                        <button type="submit" name="submit" class="btn btn-primary">Save</button>
+                            
+                                    </div>
+                                </div>
+                            </form>
+
+                        </div>
+
+                    </div>
+                </section>
+            </div>
+
+        </section>
+    </section>
+    <!-- END CONTENT -->

@@ -1,0 +1,18 @@
+==================Project Specification
+
+********************
+For the project, it is essential to use ASP.NET Core 8.0 and SQL Server Management Studio 19.
+
+
+--------------------------------------
+When adding or updating user profile images, the images should be stored in the following path:
+
+College_Website_Admin\wwwroot\Contentimages\profile
+
+For adding or updating faculty images, the images should be stored at the following path:
+
+College_Website_Admin\wwwroot\Contentimages\faculty
+
+
+///////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////

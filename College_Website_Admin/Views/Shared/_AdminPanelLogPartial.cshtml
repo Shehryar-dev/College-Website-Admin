@@ -1,0 +1,55 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@using College_Website_Admin.Models;
+
+@{
+    string userName = HttpContextAccessor.HttpContext.User.Identity.Name;
+    string profilePicturePath = HttpContextAccessor.HttpContext.User.Claims.FirstOrDefault(c => c.Type == "UserImage")?.Value;
+    string finalpic = profilePicturePath != null ? profilePicturePath : "us-icon.png";
+}
+
+@if (!string.IsNullOrEmpty(userName))
+{
+    <ul class="info-menu right-links list-inline list-unstyled">
+        <li class="profile  showopacity ">
+            <a href="#" data-toggle="dropdown" class="toggle">
+                <img src="~/Contentimages/profile/@finalpic" alt="user-image" class="img-circle img-inline">
+                <span>@userName <i class="fa fa-angle-down"></i></span>
+            </a>
+            <ul class="dropdown-menu profile animated fadeIn">
+                <li>
+                    <a href="#settings">
+                        <i class="fa fa-wrench"></i>
+                        Settings
+                    </a>
+                </li>
+                <li>
+                    <a href="#profile">
+                        <i class="fa fa-user"></i>
+                        Profile
+                    </a>
+                </li>
+                <li>
+                    <a href="#help">
+                        <i class="fa fa-info"></i>
+                        Help
+                    </a>
+                </li>
+                <li class="last">
+                    <a asp-action="Logout" asp-controller="Admin">
+                        <i class="fa fa-lock"></i>
+                        Logout
+                    </a>
+                </li>
+            </ul>
+        </li>
+        <li class="chat-toggle-wrapper">
+            <a href="#" data-toggle="chatbar" class="toggle_chat">
+                <i class="fa fa-comments"></i>
+                <span class="badge badge-warning">9</span>
+                <i class="fa fa-times"></i>
+            </a>
+        </li>
+    </ul>
+}
+

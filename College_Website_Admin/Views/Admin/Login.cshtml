@@ -1,0 +1,41 @@
+﻿@{
+    Layout = "_Layout_admin_register";
+}
+@model College_Website_Admin.Models.User;
+<div class="login-wrapper" style="background:url(/Admin/data/bg/b3.jpg);background-size:100% 100%;background-position:center;">
+    <div class="container" style="width:100%;height:100vh;backdrop-filter:blur(8px);">
+
+    <div id="login" class="login loginpage col-lg-offset-4 col-lg-4 col-md-offset-3 col-md-6 col-sm-offset-3 col-sm-6 col-xs-offset-0 col-xs-12" style="backdrop-filter:blur(10px);padding:1%;
+z-index:100000;background:#ffffff73;">
+            <h1 class=" text-center" style="font-size:54px; font-family: Pacifico;color:#03150b;">College<span style="color: #358f13;"> Admin</span>  Login</h1>
+
+
+        <form id="loginform" asp-action="Login" asp-controller="Admin" method="post">
+            <p>
+                <label for="user_login" style="color:#03150b;font-weight:600;">
+                    User Email<br />
+                        <input type="text" asp-for="UserEmail" style="color:#03150b;" id="user_login" class="input" size="20" required />
+                </label>
+            </p>
+            <p>
+                <label for="user_pass" style="color:#03150b;font-weight:600;">
+                    Password<br />
+                        <input type="password" asp-for="UserPassword" style="color:#14b761;" id="user_pass" class="input" size="20" />
+                </label>
+            </p>
+
+            <p class="submit" style="background:-webkit-linear-gradient(left,#6b8221,#3ac060 50%,#6b8221);">
+                <input type="submit" style="background:-webkit-linear-gradient(left,#6b8221,#3ac060 34%,#6b8221);" id="wp-submit" class="btn btn-orange btn-block" value="Sign In" />
+            </p>
+
+
+           
+        </form>
+
+       
+
+
+    </div>
+
+    </div>
+</div>

@@ -1,0 +1,24 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    string userName = HttpContextAccessor.HttpContext.User.Identity.Name;
+}
+
+@if (!string.IsNullOrEmpty(userName))
+{
+    <li>
+        <a href="#" style="font-size:21px;font-family: Pacifico;">
+            @userName
+        </a>
+    </li>
+}
+else
+{
+    <li>
+        <a href="#" style="font-size:21px;font-family: Pacifico;text-decoration:wavy;">
+            --------
+        </a>
+    </li>
+
+}

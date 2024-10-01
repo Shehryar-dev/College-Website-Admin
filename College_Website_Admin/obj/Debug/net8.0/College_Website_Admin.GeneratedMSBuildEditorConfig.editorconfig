@@ -1,0 +1,179 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = College_Website_Admin
+build_property.RootNamespace = College_Website_Admin
+build_property.ProjectDir = C:\Users\SAFEER\OneDrive\Desktop\College_Website_Admin\College_Website_Admin\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\SAFEER\OneDrive\Desktop\College_Website_Admin\College_Website_Admin
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/admission_records.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRtaXNzaW9uX3JlY29yZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/contact_record.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cY29udGFjdF9yZWNvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/course_add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cY291cnNlX2FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/course_edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cY291cnNlX2VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/course_show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cY291cnNlX3Nob3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/department_add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZGVwYXJ0bWVudF9hZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/department_edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZGVwYXJ0bWVudF9lZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/department_show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZGVwYXJ0bWVudF9zaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/education_record.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZWR1Y2F0aW9uX3JlY29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/facility_add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmFjaWxpdHlfYWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/facility_edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmFjaWxpdHlfZWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/facility_show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmFjaWxpdHlfc2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/faculty_add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmFjdWx0eV9hZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/faculty_edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmFjdWx0eV9lZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/faculty_show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmFjdWx0eV9zaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/feedback_record.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmVlZGJhY2tfcmVjb3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/registered_student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5ccmVnaXN0ZXJlZF9zdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/role_add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5ccm9sZV9hZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/role_edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5ccm9sZV9lZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/role_show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5ccm9sZV9zaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/select_course.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cc2VsZWN0X2NvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/status_records.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cc3RhdHVzX3JlY29yZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/user_add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXNlcl9hZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/user_edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXNlcl9lZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Admin/user_show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXNlcl9zaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Shared/_AdminPanelLogPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pblBhbmVsTG9nUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Shared/_AdminPanelprofileImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pblBhbmVscHJvZmlsZUltYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Shared/_LogoutPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dvdXRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Shared/_UserNamePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VyTmFtZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-m3ls7ti7vb
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Shared/_Layout_admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfYWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jxl0rrg6tx
+
+[C:/Users/SAFEER/OneDrive/Desktop/College_Website_Admin/College_Website_Admin/Views/Shared/_Layout_admin_register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfYWRtaW5fcmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hbw7iit4u0

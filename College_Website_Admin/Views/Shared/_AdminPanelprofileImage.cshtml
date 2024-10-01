@@ -1,0 +1,37 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@using College_Website_Admin.Models;
+
+@{
+    string userName = HttpContextAccessor.HttpContext.User.Identity.Name;
+    string profilePicturePath = HttpContextAccessor.HttpContext.User.Claims.FirstOrDefault(c => c.Type == "UserImage")?.Value;
+    string finalpic = profilePicturePath != null ? profilePicturePath : "us-icon.png";
+}
+
+@if (!string.IsNullOrEmpty(userName))
+{
+    <div class="profile-info row">
+        <div class="profile-image col-md-4 col-sm-4 col-xs-4">
+            <a >
+                <img src="~/Contentimages/profile/@finalpic" alt="user-img" class="img-circle img-inline">
+            </a>
+        </div>
+        <div class="profile-details col-md-8 col-sm-8 col-xs-8">
+            <h3>
+                <a asp-action="user_show" asp-controller="Admin" style="font-family: Pacifico;">@userName</a>
+                <!-- Available statuses: online, idle, busy, away and offline -->
+                <span class="profile-status online"></span>
+            </h3>
+            <p class="profile-title" style="font-family: 'Almendra', serif;font-weight: bold;">
+                @if (HttpContextAccessor.HttpContext.User.IsInRole("Admin"))
+                {
+                    <text>Administrator</text>
+                }
+                else if (HttpContextAccessor.HttpContext.User.IsInRole("User"))
+                {
+                    <text>College Website Admin</text>
+                }
+            </p>
+        </div>
+    </div>
+}

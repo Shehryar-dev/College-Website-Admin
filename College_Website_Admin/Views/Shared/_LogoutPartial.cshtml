@@ -1,0 +1,20 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    string userName = HttpContextAccessor.HttpContext.User.Identity.Name;
+}
+
+@if (!string.IsNullOrEmpty(userName))
+{
+    <div class="vollenter-btn">
+        <a class="theme-btn-s2" asp-action="Logout" asp-controller="Home">Account Logout</a>
+    </div>
+}
+else{
+<div class="vollenter-btn">
+    <a class="theme-btn-s2" asp-action="register" asp-controller="Home">Account Register</a>
+</div>
+
+}
+
